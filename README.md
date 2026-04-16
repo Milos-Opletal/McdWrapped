@@ -1,5 +1,7 @@
 # McdWrapped 🍟
 
+**🚀 Live Website:** [https://wrapped.mymymcd.eu](https://wrapped.mymymcd.eu)
+
 A tailored web application that creates a "Spotify Wrapped" style career summary for McDonald's employees. It processes your scheduling data to provide you with insights into your career journey, including total shifts, hours worked, histograms of shift duration, and the busiest months. 
 
 ### Under the Hood
