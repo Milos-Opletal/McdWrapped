@@ -2,7 +2,7 @@ services:
   # Service 1: The Website
   web:
     image: mcd-wrapped:latest
-    container_name: mcd-wrapped-web
+    container_name: mcd-wrapped
     restart: unless-stopped
     command: uvicorn app:app --host 0.0.0.0 --port 4334
     ports:
